@@ -10,3 +10,6 @@ language. Additionally, use mathematical techniques to analyze the efficiency of
 the common operations on the data structures discussed. The course also allows students to implement algorithms and
 conduct real-system performance measurements and analyses using the C++ programming language. This course aims to
 contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrastructure.
+<br>
+<br>
+<h2>COURSE INTENDED LEARNING OUTCOMES</h2>
