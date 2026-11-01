@@ -2,7 +2,7 @@
 ### Portfolio of Libo-on, Gian Carlo G.
 
 <p align="center">
-  <img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/403c2d9f1e2091abb2f69fb2cd42e135f0bd23eb-1920x1080.jpg" alt="Hush" width="500">
+  <img src="https://ph.pinterest.com/pin/924856473489129082/ width="500">
 </p>
 
 ## COURSE OBJECTIVE
