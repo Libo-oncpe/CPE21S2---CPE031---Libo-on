@@ -19,5 +19,23 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 <h3>TOPICS</h3>
 <br>
 <sh1>PRELIM</sh1>
+- [Hands-on Activity 1.1](link-here)
+- [Hands-on Activity 2.1](link-here)
+- [Hands-on Activity 3.1](link-here)
+- [Hands-on Activity 4.1](link-here)
+- [Hands-on Activity 5.1](link-here)
+- [PRELIM EXAM](link-here)
+- [Seatwork 1.1](link-here)
+
 <sh2>MIDTERMS</sh2>
+- [Hands-on Activity 6](link-here)
+- [Hands-on Activity 7](link-here)
+- [Hands-on Activity 8](link-here)
+- [Hands-on Activity 9](link-here)
+- [Hands-on Activity 10](link-here)
+
 <sh3>FINALS</sh3>
+- [Hands-on Activity 11](link-here)
+- [Hands-on Activity 12](link-here)
+- [Hands-on Activity 13](link-here)
+- [Hands-on Activity 14](link-here)
