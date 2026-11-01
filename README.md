@@ -20,7 +20,7 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 <br>
 
 <sh1>PRELIM</sh1>
-- [Hands-on Activity 1.1](PRELIM PERIOD/Hands-on Activity 1.1 Basic C++ Programming) 
+- [Hands-on Activity 1.1]([PRELIM PERIOD/Hands-on Activity 1.1 Basic C++ Programming](https://github.com/Libo-oncpe/CPE21S2---CPE031---Libo-on/tree/cae705a44afcfc5537ce17817f4b24668c79be28/PRELIM%20PERIOD/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)) 
 - [Hands-on Activity 2.1](link-here)
 - [Hands-on Activity 3.1](link-here)
 - [Hands-on Activity 4.1](link-here)
