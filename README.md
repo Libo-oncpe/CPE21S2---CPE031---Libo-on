@@ -20,23 +20,23 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 <br>
 
 <sh1>PRELIM</sh1>
-- [Hands-on Activity 1.1]([PRELIM PERIOD/Hands-on Activity 1.1 Basic C++ Programming](https://github.com/Libo-oncpe/CPE21S2---CPE031---Libo-on/tree/cae705a44afcfc5537ce17817f4b24668c79be28/PRELIM%20PERIOD/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming)) 
-- [Hands-on Activity 2.1](link-here)
-- [Hands-on Activity 3.1](link-here)
-- [Hands-on Activity 4.1](link-here)
-- [Hands-on Activity 5.1](link-here)
-- [PRELIM EXAM](link-here)
-- [Seatwork 1.1](link-here)
+- [https://github.com/Libo-oncpe/CPE21S2---CPE031---Libo-on/tree/b9ea33e9242dcad455ff7b1504fbb3ae8cd240ef/PRELIM%20PERIOD/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming] 
+- [[Hands-on Activity 2.1](https://github.com/Libo-oncpe/CPE21S2---CPE031---Libo-on/tree/b9ea33e9242dcad455ff7b1504fbb3ae8cd240ef/PRELIM%20PERIOD/Hands-on%20Activity%202.1%20Arrays%2C%20Pointers%20and%20Dynamic%20Memory%20Allocation)] 
+- [Hands-on Activity 3.1]
+- [Hands-on Activity 4.1]
+- [Hands-on Activity 5.1]
+- [PRELIM EXAM]
+- [Seatwork 1.1]
 
 <sh2>MIDTERMS</sh2>
-- [Hands-on Activity 6](link-here)
-- [Hands-on Activity 7](link-here)
-- [Hands-on Activity 8](link-here)
-- [Hands-on Activity 9](link-here)
-- [Hands-on Activity 10](link-here)
+- [Hands-on Activity 6]
+- [Hands-on Activity 7]
+- [Hands-on Activity 8] 
+- [Hands-on Activity 9]
+- [Hands-on Activity 10]
 
 <sh3>FINALS</sh3>
-- [Hands-on Activity 11](link-here)
-- [Hands-on Activity 12](link-here)
-- [Hands-on Activity 13](link-here)
-- [Hands-on Activity 14](link-here)
+- [Hands-on Activity 11] 
+- [Hands-on Activity 12]
+- [Hands-on Activity 13]
+- [Hands-on Activity 14] - (link-here)
