@@ -16,3 +16,7 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design <br>
 2. Design efficient algorithms and analyze their complexity. <br>
 3. Build efficient algorithms based on selected data structures using good programming styles in C++ <br>
+<h3>TOPICS</h3>
+<sh1>PRELIM</sh1>
+<sh2>MIDTERMS</sh2>
+<sh3>FINALS</sh3>
