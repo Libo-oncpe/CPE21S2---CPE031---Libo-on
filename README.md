@@ -18,8 +18,9 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 3. Build efficient algorithms based on selected data structures using good programming styles in C++ <br>
 <h3>TOPICS</h3>
 <br>
+
 <sh1>PRELIM</sh1>
-- [Hands-on Activity 1.1](link-here)
+- [Hands-on Activity 1.1](PRELIM PERIOD/Hands-on Activity 1.1 Basic C++ Programming) 
 - [Hands-on Activity 2.1](link-here)
 - [Hands-on Activity 3.1](link-here)
 - [Hands-on Activity 4.1](link-here)
