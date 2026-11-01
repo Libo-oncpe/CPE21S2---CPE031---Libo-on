@@ -19,8 +19,8 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 <h3>TOPICS</h3>
 <br>
 <sh1>PRELIM</sh1>
-- [Hands-on Activity 1.1](https://github.com/Libo-oncpe/CPE21S2---CPE031---Libo-on/blob/main/PRELIM%20PERIOD/Hands-on%20Activity%201.1%20Basic%20C%2B%2B%20Programming/Libo-on_CPE21S2%20-%20CPE010_HOA1.1.pdf)
-- [Hands-on Activity 2.1](link-here)
+- [Hands-on Activity 1.1](PRELIM PERIOD/Hands-on Activity 1.1 Basic C++ Programming)
+- [Hands-on Activity 2.1](PRELIM PERIOD/Hands-on Activity 2.1 Arrays, Pointers and Dynamic Memory Allocation)
 - [Hands-on Activity 3.1](link-here)
 - [Hands-on Activity 4.1](link-here)
 - [Hands-on Activity 5.1](link-here)
