@@ -2,7 +2,8 @@
 ### Portfolio of Libo-on, Gian Carlo G.
 
 <p align="center">
-  <img src="https://www.google.com/imgres?q=toji%20fushiguro&imgurl=https%3A%2F%2Fcdnb.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F066%2F544%2F063%2Flarge%2Fakashi-art-1692796063702-format-jpg-big.jpg%3F1693174260&imgrefurl=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FGeJVzN&docid=kgHY0TrQTsQ_xM&tbnid=3beCiTFSxjepWM&vet=12ahUKEwjzhqiv0ueXAxXUmeEIHV3EFKwQnPAOegUItwEQAA..i&w=1920&h=2400&hcb=2&ved=2ahUKEwjzhqiv0ueXAxXUmeEIHV3EFKwQnPAOegUItwEQAA width="500">
+  <img src="assets/banner.jpg" alt="Banner" width="400">
+  <br>
 </p>
 
 ## COURSE OBJECTIVE
