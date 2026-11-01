@@ -13,3 +13,6 @@ contribute towards the attainment of SDG 9 – Industry, Innovation, and Infrast
 <br>
 <br>
 <h2>COURSE INTENDED LEARNING OUTCOMES</h2>
+1. Apply fundamental data structures and techniques to solve engineering-related problems through algorithm design <br>
+2. Design efficient algorithms and analyze their complexity. <br>
+3. Build efficient algorithms based on selected data structures using good programming styles in C++ <br>
